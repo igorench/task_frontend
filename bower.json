@@ -1,0 +1,21 @@
+{
+  "name": "site_for_company",
+  "authors": [
+    "Igor Turovskyi <iturovskij5@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "^7.0.0",
+    "bootstrap": "^3.3.7"
+  }
+}

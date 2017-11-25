@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16.156" viewBox="0 0 16 16.156">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ddd;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="speech_bubbles_copy" data-name="speech bubbles copy" class="cls-1" d="M106,769h8a2,2,0,0,1,2,2v5a2,2,0,0,1-2,2h-8a2,2,0,0,1-2-2v-5A2,2,0,0,1,106,769Zm0.094,8.625v4.531L110,777.875ZM109,766.281h6.75a2,2,0,0,1,2,2v5.688a2,2,0,0,1-2,2H109a2,2,0,0,1-2-2v-5.688A2,2,0,0,1,109,766.281Zm1-.281h8a2,2,0,0,1,2,2v4.969a2,2,0,0,1-2,2h-8a2,2,0,0,1-2-2V768A2,2,0,0,1,110,766Zm8,7.656V779l-3.937-4.031Zm-0.031,5.313-3.531-3.751-1.563.032,3.948,4.344Z" transform="translate(-104 -766)"/>
+</svg>
